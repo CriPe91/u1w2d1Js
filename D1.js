@@ -69,8 +69,8 @@ console.log("risultato somma variabile c:", c);
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-let nameX = 12;
-console.log(nameX);
+let numberX = 12;
+console.log(numberX);
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
